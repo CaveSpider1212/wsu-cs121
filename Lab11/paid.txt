@@ -1,4 +1,0 @@
-Total payments: $11349.00
-Average payment per employee: $2837.25
-Maximum payment: $5359.00
-Minimum payment: $1283.00

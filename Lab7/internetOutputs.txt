@@ -1,2 +1,0 @@
-Customer #12345's Total Charge: $89.85
-Customer #12345's Average Cost per Hour: $5.99
